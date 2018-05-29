@@ -145,11 +145,19 @@ fs.readFile(filePath, function(err, data) {
 })
 
 // Q16. Give me at least 3 memorable websites that engage to continue (because of nice UX/UI)
+Facebook, Youtube, Tastemade
 
 // Q17. Describe an ESILV project you worked on that you’re proud of?
+I have coded a game in python that you can play with 2 players using PS4 joysticks. At first, you are in a crowd of characters alligned at the left side of the screen. 
+There is a finish line on the opposite right side of the screen that you have to cross before the others but the issue is that you dont know which character you are playing.
+You have to figure out who you are playing but without letting your opponent discover you because each of the players have one bullet to shoot someone.
+The aim is to win the race and to shoot the opponent.
 
 // Q18. Describe an ESILV project that you worked on that you’re not so proud of?
+In Nosql I had to create a web page, showing some data queried in mongoDB.
 
 // Q19. What are some things you like about the developer tools you use?
+Scraping.
 
 // Q20. Last question: could you explain me - in your terms - why I decided to focus on Javascript Ecosystem for the Web Architecture(s) course?
+Javascript is very popular nowadays and is in the browser so it is everywhere. It allows us to play with both front and back end to have an overview of how web applications work
