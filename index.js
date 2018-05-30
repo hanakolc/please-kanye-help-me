@@ -157,7 +157,7 @@ The aim is to win the race and to shoot the opponent.
 In Nosql I had to create a web page, showing some data queried in mongoDB.
 
 // Q19. What are some things you like about the developer tools you use?
-Scraping.
+Git was a tool that I had never used before to put my own project on and I think it is an important tool to master because it can allow us to show what we do.
 
 // Q20. Last question: could you explain me - in your terms - why I decided to focus on Javascript Ecosystem for the Web Architecture(s) course?
 Javascript is very popular nowadays and is in the browser so it is everywhere. It allows us to play with both front and back end to have an overview of how web applications work
